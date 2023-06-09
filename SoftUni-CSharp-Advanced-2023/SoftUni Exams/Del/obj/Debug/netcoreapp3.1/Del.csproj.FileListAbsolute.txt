@@ -1,5 +1,0 @@
-C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\Del\obj\Debug\netcoreapp3.1\Del.csproj.AssemblyReference.cache
-C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\Del\obj\Debug\netcoreapp3.1\Del.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\Del\obj\Debug\netcoreapp3.1\Del.AssemblyInfoInputs.cache
-C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\Del\obj\Debug\netcoreapp3.1\Del.AssemblyInfo.cs
-C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\Del\obj\Debug\netcoreapp3.1\Del.csproj.CoreCompileInputs.cache
