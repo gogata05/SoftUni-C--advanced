@@ -1,0 +1,55 @@
+body{
+    background-color: #eee;
+    padding: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid #000;
+   
+}
+header{
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 0.4rem;
+    color: #000;
+
+    flex-basis: 100%;
+    border: 1px solid #000;
+   
+    margin:20px;
+    height: 100px; 
+}
+main{
+    padding: 1rem;
+    background-color:#fff;
+    border-radius: 0.4rem;
+    color: #000;
+
+    flex : 8 1 40rem;/**/
+    border: 1px solid #000;
+   
+    margin:20px;
+    height: 300px;
+}
+aside{
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 0.4rem;
+    color: #000;
+
+    flex: 2 1 20rem;/**/
+    border: 1px solid #000;
+   
+    margin:20px;
+}
+footer{
+    padding: 1rem;
+    background-color:#fff;
+    border-radius: 0.4rem;
+    color: #000;
+
+    flex-basis: 100%;/**/
+    border: 1px solid #000;
+   
+    margin:20px;
+    height: 50px;
+}

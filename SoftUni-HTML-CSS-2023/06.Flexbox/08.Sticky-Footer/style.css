@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: rgb(238, 238, 238);
+    font-family: Helvetica, sans-serif;
+    border: 2px solid #000;
+}
+h1{
+    padding: 6px;
+    margin: 8px;
+}
+main{
+    flex: 1 0 auto;
+    padding: 8px;
+}
+.header-conteiner{
+    border-bottom: 1px solid black;
+}
+footer{
+    color: rgb(255, 255, 255);
+    background-color: rgb(102, 102, 102);
+    padding: 8px;
+}
+

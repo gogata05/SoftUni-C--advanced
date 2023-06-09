@@ -1,0 +1,26 @@
+body{
+    border: 1px solid #000;
+    font-family: Helvetica, sans-serif;
+}
+div.conteiner{
+    display: flex;
+    align-items: center;
+    max-width: 15vw;
+    height: 35rem;
+    gap: 6px;
+    min-height: 10%;
+    flex-flow: column wrap;
+    padding-left: 4%;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    padding-right: 4%;
+}
+span{
+    border: 1px solid #000;
+    padding: 20px 40px 20px 32px;/*top right bottom left*/
+    width: 0%;
+    text-align: center;
+}
+/*.item:nth-child(1) {
+  background-color: #845ec2;
+}*/
