@@ -1,0 +1,5 @@
+C:\Users\gogat\OneDrive\Pictures\repos\05.23start\02. Advanced-Multidimensional-Arrays-Lab\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\gogat\OneDrive\Pictures\repos\05.23start\02. Advanced-Multidimensional-Arrays-Lab\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\OneDrive\Pictures\repos\05.23start\02. Advanced-Multidimensional-Arrays-Lab\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\05.23start\02. Advanced-Multidimensional-Arrays-Lab\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.AssemblyInfo.cs
+C:\Users\gogat\OneDrive\Pictures\repos\05.23start\02. Advanced-Multidimensional-Arrays-Lab\MultidimensionalArrays\obj\Debug\net7.0\MultidimensionalArrays.csproj.CoreCompileInputs.cache

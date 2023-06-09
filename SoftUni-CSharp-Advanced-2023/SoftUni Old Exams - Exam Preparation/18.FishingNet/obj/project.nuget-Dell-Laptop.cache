@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iYMkAUTB7hdmlcsoGo2fPe7MGWEHYVeZIl84esAStg0oQLkku0E8Rh4/i0HvPOpvKJNLxefv5e59LqlE24GunA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\OneDrive\\Pictures\\repos\\startAdv\\Tests All\\Tests All\\18.FishingNet\\18.FishingNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

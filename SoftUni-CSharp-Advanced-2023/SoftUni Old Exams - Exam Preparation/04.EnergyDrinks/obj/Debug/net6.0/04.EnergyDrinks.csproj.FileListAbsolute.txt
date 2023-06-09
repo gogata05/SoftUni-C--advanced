@@ -1,0 +1,15 @@
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\bin\Debug\net6.0\04.EnergyDrinks.exe
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\bin\Debug\net6.0\04.EnergyDrinks.deps.json
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\bin\Debug\net6.0\04.EnergyDrinks.runtimeconfig.json
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\bin\Debug\net6.0\04.EnergyDrinks.dll
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\bin\Debug\net6.0\04.EnergyDrinks.pdb
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\obj\Debug\net6.0\04.EnergyDrinks.csproj.AssemblyReference.cache
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\obj\Debug\net6.0\04.EnergyDrinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\obj\Debug\net6.0\04.EnergyDrinks.AssemblyInfoInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\obj\Debug\net6.0\04.EnergyDrinks.AssemblyInfo.cs
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\obj\Debug\net6.0\04.EnergyDrinks.csproj.CoreCompileInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\obj\Debug\net6.0\04.EnergyDrinks.dll
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\obj\Debug\net6.0\refint\04.EnergyDrinks.dll
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\obj\Debug\net6.0\04.EnergyDrinks.pdb
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\obj\Debug\net6.0\04.EnergyDrinks.genruntimeconfig.cache
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\04.EnergyDrinks\obj\Debug\net6.0\ref\04.EnergyDrinks.dll

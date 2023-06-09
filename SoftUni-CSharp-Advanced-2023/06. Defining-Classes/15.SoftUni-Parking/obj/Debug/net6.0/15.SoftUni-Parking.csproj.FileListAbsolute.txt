@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\bin\Debug\net6.0\15.SoftUni-Parking.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\bin\Debug\net6.0\15.SoftUni-Parking.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\bin\Debug\net6.0\15.SoftUni-Parking.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\bin\Debug\net6.0\15.SoftUni-Parking.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\bin\Debug\net6.0\15.SoftUni-Parking.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\obj\Debug\net6.0\15.SoftUni-Parking.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\obj\Debug\net6.0\15.SoftUni-Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\obj\Debug\net6.0\15.SoftUni-Parking.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\obj\Debug\net6.0\15.SoftUni-Parking.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\obj\Debug\net6.0\15.SoftUni-Parking.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\obj\Debug\net6.0\15.SoftUni-Parking.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\obj\Debug\net6.0\refint\15.SoftUni-Parking.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\obj\Debug\net6.0\15.SoftUni-Parking.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\obj\Debug\net6.0\15.SoftUni-Parking.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\15.SoftUni-Parking\obj\Debug\net6.0\ref\15.SoftUni-Parking.dll

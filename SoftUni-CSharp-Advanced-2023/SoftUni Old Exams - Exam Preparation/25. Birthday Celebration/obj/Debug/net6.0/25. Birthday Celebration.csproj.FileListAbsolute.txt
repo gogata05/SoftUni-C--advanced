@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\bin\Debug\net6.0\25. Birthday Celebration.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\bin\Debug\net6.0\25. Birthday Celebration.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\bin\Debug\net6.0\25. Birthday Celebration.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\bin\Debug\net6.0\25. Birthday Celebration.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\bin\Debug\net6.0\25. Birthday Celebration.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\obj\Debug\net6.0\25. Birthday Celebration.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\obj\Debug\net6.0\25. Birthday Celebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\obj\Debug\net6.0\25. Birthday Celebration.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\obj\Debug\net6.0\25. Birthday Celebration.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\obj\Debug\net6.0\25. Birthday Celebration.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\obj\Debug\net6.0\25. Birthday Celebration.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\obj\Debug\net6.0\refint\25. Birthday Celebration.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\obj\Debug\net6.0\25. Birthday Celebration.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\obj\Debug\net6.0\25. Birthday Celebration.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\25. Birthday Celebration\obj\Debug\net6.0\ref\25. Birthday Celebration.dll

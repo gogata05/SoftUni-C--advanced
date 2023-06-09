@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IiTtEjoS2YZh4q+sIZWZFbS1esN/1EQuSTjDjbFmzwKbQm6hz7k43Ym+sQKfxa4IAmYSJm7g/Y+rKfU0hvaF8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\OneDrive\\Pictures\\repos\\startAdv\\Tests All\\Tests All\\21.Drones\\21.Drones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

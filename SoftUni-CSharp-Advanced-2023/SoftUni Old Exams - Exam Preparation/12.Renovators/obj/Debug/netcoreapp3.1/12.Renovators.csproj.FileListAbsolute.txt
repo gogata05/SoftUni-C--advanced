@@ -1,0 +1,14 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\bin\Debug\netcoreapp3.1\12.Renovators.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\bin\Debug\netcoreapp3.1\12.Renovators.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\bin\Debug\netcoreapp3.1\12.Renovators.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\bin\Debug\netcoreapp3.1\12.Renovators.runtimeconfig.dev.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\bin\Debug\netcoreapp3.1\12.Renovators.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\bin\Debug\netcoreapp3.1\12.Renovators.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\obj\Debug\netcoreapp3.1\12.Renovators.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\obj\Debug\netcoreapp3.1\12.Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\obj\Debug\netcoreapp3.1\12.Renovators.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\obj\Debug\netcoreapp3.1\12.Renovators.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\obj\Debug\netcoreapp3.1\12.Renovators.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\obj\Debug\netcoreapp3.1\12.Renovators.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\obj\Debug\netcoreapp3.1\12.Renovators.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\12.Renovators\obj\Debug\netcoreapp3.1\12.Renovators.genruntimeconfig.cache

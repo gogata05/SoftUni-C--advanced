@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0glTBGZCD/ZwiFqYEz8eTac/ajbW4MeO/CNwpiCcJEWB8yp+MMjPmaG1Tg7WIzl8MhGPXmyAroD/tbFx8FEVBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\source\\repos\\OneDrive\\Pictures\\repos\\startAdv\\Tests All\\Tests All\\29del\\29del.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

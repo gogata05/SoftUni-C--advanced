@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\bin\Debug\net6.0\10. Tiles Master.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\bin\Debug\net6.0\10. Tiles Master.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\bin\Debug\net6.0\10. Tiles Master.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\bin\Debug\net6.0\10. Tiles Master.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\bin\Debug\net6.0\10. Tiles Master.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\obj\Debug\net6.0\10. Tiles Master.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\obj\Debug\net6.0\10. Tiles Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\obj\Debug\net6.0\10. Tiles Master.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\obj\Debug\net6.0\10. Tiles Master.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\obj\Debug\net6.0\10. Tiles Master.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\obj\Debug\net6.0\10. Tiles Master.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\obj\Debug\net6.0\refint\10. Tiles Master.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\obj\Debug\net6.0\10. Tiles Master.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\obj\Debug\net6.0\10. Tiles Master.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\10. Tiles Master\obj\Debug\net6.0\ref\10. Tiles Master.dll

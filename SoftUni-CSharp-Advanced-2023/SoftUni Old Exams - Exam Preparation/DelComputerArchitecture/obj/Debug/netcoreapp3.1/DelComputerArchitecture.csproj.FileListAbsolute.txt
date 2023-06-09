@@ -1,0 +1,14 @@
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\bin\Debug\netcoreapp3.1\DelComputerArchitecture.exe
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\bin\Debug\netcoreapp3.1\DelComputerArchitecture.deps.json
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\bin\Debug\netcoreapp3.1\DelComputerArchitecture.runtimeconfig.json
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\bin\Debug\netcoreapp3.1\DelComputerArchitecture.runtimeconfig.dev.json
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\bin\Debug\netcoreapp3.1\DelComputerArchitecture.dll
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\bin\Debug\netcoreapp3.1\DelComputerArchitecture.pdb
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\obj\Debug\netcoreapp3.1\DelComputerArchitecture.csproj.AssemblyReference.cache
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\obj\Debug\netcoreapp3.1\DelComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\obj\Debug\netcoreapp3.1\DelComputerArchitecture.AssemblyInfoInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\obj\Debug\netcoreapp3.1\DelComputerArchitecture.AssemblyInfo.cs
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\obj\Debug\netcoreapp3.1\DelComputerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\obj\Debug\netcoreapp3.1\DelComputerArchitecture.dll
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\obj\Debug\netcoreapp3.1\DelComputerArchitecture.pdb
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\DelComputerArchitecture\obj\Debug\netcoreapp3.1\DelComputerArchitecture.genruntimeconfig.cache

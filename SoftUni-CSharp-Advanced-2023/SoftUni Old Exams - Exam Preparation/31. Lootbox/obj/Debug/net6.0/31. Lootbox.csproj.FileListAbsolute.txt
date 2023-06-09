@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\bin\Debug\net6.0\31. Lootbox.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\bin\Debug\net6.0\31. Lootbox.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\bin\Debug\net6.0\31. Lootbox.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\bin\Debug\net6.0\31. Lootbox.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\bin\Debug\net6.0\31. Lootbox.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\obj\Debug\net6.0\31. Lootbox.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\obj\Debug\net6.0\31. Lootbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\obj\Debug\net6.0\31. Lootbox.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\obj\Debug\net6.0\31. Lootbox.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\obj\Debug\net6.0\31. Lootbox.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\obj\Debug\net6.0\31. Lootbox.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\obj\Debug\net6.0\refint\31. Lootbox.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\obj\Debug\net6.0\31. Lootbox.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\obj\Debug\net6.0\31. Lootbox.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\31. Lootbox\obj\Debug\net6.0\ref\31. Lootbox.dll

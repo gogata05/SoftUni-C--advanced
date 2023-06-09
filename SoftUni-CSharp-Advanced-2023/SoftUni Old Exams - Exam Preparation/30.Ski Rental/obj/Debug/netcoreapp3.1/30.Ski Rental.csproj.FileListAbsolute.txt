@@ -1,0 +1,14 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\obj\Debug\netcoreapp3.1\30.Ski Rental.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\obj\Debug\netcoreapp3.1\30.Ski Rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\obj\Debug\netcoreapp3.1\30.Ski Rental.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\obj\Debug\netcoreapp3.1\30.Ski Rental.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\obj\Debug\netcoreapp3.1\30.Ski Rental.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\bin\Debug\netcoreapp3.1\30.Ski Rental.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\bin\Debug\netcoreapp3.1\30.Ski Rental.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\bin\Debug\netcoreapp3.1\30.Ski Rental.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\bin\Debug\netcoreapp3.1\30.Ski Rental.runtimeconfig.dev.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\bin\Debug\netcoreapp3.1\30.Ski Rental.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\bin\Debug\netcoreapp3.1\30.Ski Rental.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\obj\Debug\netcoreapp3.1\30.Ski Rental.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\obj\Debug\netcoreapp3.1\30.Ski Rental.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\30.Ski Rental\obj\Debug\netcoreapp3.1\30.Ski Rental.genruntimeconfig.cache

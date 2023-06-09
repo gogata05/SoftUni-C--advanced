@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\bin\Debug\net6.0\08.Generic-Count-Method-Strings.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\bin\Debug\net6.0\08.Generic-Count-Method-Strings.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\bin\Debug\net6.0\08.Generic-Count-Method-Strings.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\bin\Debug\net6.0\08.Generic-Count-Method-Strings.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\bin\Debug\net6.0\08.Generic-Count-Method-Strings.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\obj\Debug\net6.0\08.Generic-Count-Method-Strings.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\obj\Debug\net6.0\08.Generic-Count-Method-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\obj\Debug\net6.0\08.Generic-Count-Method-Strings.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\obj\Debug\net6.0\08.Generic-Count-Method-Strings.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\obj\Debug\net6.0\08.Generic-Count-Method-Strings.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\obj\Debug\net6.0\08.Generic-Count-Method-Strings.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\obj\Debug\net6.0\refint\08.Generic-Count-Method-Strings.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\obj\Debug\net6.0\08.Generic-Count-Method-Strings.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\obj\Debug\net6.0\08.Generic-Count-Method-Strings.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\08. Generics\08.Generic-Count-Method-Strings\obj\Debug\net6.0\ref\08.Generic-Count-Method-Strings.dll

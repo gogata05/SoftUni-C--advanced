@@ -1,0 +1,5 @@
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\38.Warships\obj\Debug\netcoreapp3.1\38.Warships.csproj.AssemblyReference.cache
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\38.Warships\obj\Debug\netcoreapp3.1\38.Warships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\38.Warships\obj\Debug\netcoreapp3.1\38.Warships.AssemblyInfoInputs.cache
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\38.Warships\obj\Debug\netcoreapp3.1\38.Warships.AssemblyInfo.cs
+C:\Users\gogat\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\38.Warships\obj\Debug\netcoreapp3.1\38.Warships.csproj.CoreCompileInputs.cache

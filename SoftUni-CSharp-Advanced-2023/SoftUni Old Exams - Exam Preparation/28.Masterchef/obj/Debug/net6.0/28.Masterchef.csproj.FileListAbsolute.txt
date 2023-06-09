@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\bin\Debug\net6.0\28.Masterchef.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\bin\Debug\net6.0\28.Masterchef.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\bin\Debug\net6.0\28.Masterchef.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\bin\Debug\net6.0\28.Masterchef.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\bin\Debug\net6.0\28.Masterchef.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\obj\Debug\net6.0\28.Masterchef.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\obj\Debug\net6.0\28.Masterchef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\obj\Debug\net6.0\28.Masterchef.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\obj\Debug\net6.0\28.Masterchef.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\obj\Debug\net6.0\28.Masterchef.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\obj\Debug\net6.0\28.Masterchef.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\obj\Debug\net6.0\refint\28.Masterchef.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\obj\Debug\net6.0\28.Masterchef.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\obj\Debug\net6.0\28.Masterchef.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\28.Masterchef\obj\Debug\net6.0\ref\28.Masterchef.dll

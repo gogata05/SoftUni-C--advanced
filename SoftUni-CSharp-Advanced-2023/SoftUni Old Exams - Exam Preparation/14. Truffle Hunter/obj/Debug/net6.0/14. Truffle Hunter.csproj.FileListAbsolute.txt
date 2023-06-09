@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\bin\Debug\net6.0\14. Truffle Hunter.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\bin\Debug\net6.0\14. Truffle Hunter.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\bin\Debug\net6.0\14. Truffle Hunter.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\bin\Debug\net6.0\14. Truffle Hunter.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\bin\Debug\net6.0\14. Truffle Hunter.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\obj\Debug\net6.0\14. Truffle Hunter.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\obj\Debug\net6.0\14. Truffle Hunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\obj\Debug\net6.0\14. Truffle Hunter.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\obj\Debug\net6.0\14. Truffle Hunter.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\obj\Debug\net6.0\14. Truffle Hunter.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\obj\Debug\net6.0\14. Truffle Hunter.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\obj\Debug\net6.0\refint\14. Truffle Hunter.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\obj\Debug\net6.0\14. Truffle Hunter.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\obj\Debug\net6.0\14. Truffle Hunter.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\14. Truffle Hunter\obj\Debug\net6.0\ref\14. Truffle Hunter.dll

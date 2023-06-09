@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "11.Speed-Racing/1.0.0": {
+        "dependencies": {
+          "ClassMembers": "1.0.0"
+        },
+        "runtime": {
+          "11.Speed-Racing.dll": {}
+        }
+      },
+      "ClassMembers/1.0.0": {
+        "runtime": {
+          "ClassMembers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11.Speed-Racing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassMembers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

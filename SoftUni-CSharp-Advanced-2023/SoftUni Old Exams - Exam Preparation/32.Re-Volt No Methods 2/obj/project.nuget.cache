@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iM1snfHPs/Xi/daKvwTWI45vRCiP9J/1GFJAhBpNxtzFMbnSB5uQOrN2ukndliiPSJJ3Wy9S4f7y/sZTZfQMNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\source\\repos\\OneDrive\\Pictures\\repos\\startAdv\\Tests All\\Tests All\\32.Re-Volt No Methods 2\\32.Re-Volt No Methods 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

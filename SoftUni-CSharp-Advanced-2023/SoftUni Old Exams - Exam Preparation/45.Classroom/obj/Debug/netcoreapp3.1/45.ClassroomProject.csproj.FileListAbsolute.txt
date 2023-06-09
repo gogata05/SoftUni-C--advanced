@@ -1,0 +1,14 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\bin\Debug\netcoreapp3.1\45.ClassroomProject.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\bin\Debug\netcoreapp3.1\45.ClassroomProject.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\bin\Debug\netcoreapp3.1\45.ClassroomProject.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\bin\Debug\netcoreapp3.1\45.ClassroomProject.runtimeconfig.dev.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\bin\Debug\netcoreapp3.1\45.ClassroomProject.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\bin\Debug\netcoreapp3.1\45.ClassroomProject.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\obj\Debug\netcoreapp3.1\45.ClassroomProject.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\obj\Debug\netcoreapp3.1\45.ClassroomProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\obj\Debug\netcoreapp3.1\45.ClassroomProject.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\obj\Debug\netcoreapp3.1\45.ClassroomProject.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\obj\Debug\netcoreapp3.1\45.ClassroomProject.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\obj\Debug\netcoreapp3.1\45.ClassroomProject.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\obj\Debug\netcoreapp3.1\45.ClassroomProject.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\45.Classroom\obj\Debug\netcoreapp3.1\45.ClassroomProject.genruntimeconfig.cache

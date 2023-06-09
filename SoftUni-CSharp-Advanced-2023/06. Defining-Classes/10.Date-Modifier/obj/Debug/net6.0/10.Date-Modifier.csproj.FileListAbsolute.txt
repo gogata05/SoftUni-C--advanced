@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\bin\Debug\net6.0\10.Date-Modifier.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\bin\Debug\net6.0\10.Date-Modifier.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\bin\Debug\net6.0\10.Date-Modifier.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\bin\Debug\net6.0\10.Date-Modifier.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\bin\Debug\net6.0\10.Date-Modifier.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\obj\Debug\net6.0\10.Date-Modifier.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\obj\Debug\net6.0\10.Date-Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\obj\Debug\net6.0\10.Date-Modifier.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\obj\Debug\net6.0\10.Date-Modifier.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\obj\Debug\net6.0\10.Date-Modifier.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\obj\Debug\net6.0\10.Date-Modifier.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\obj\Debug\net6.0\refint\10.Date-Modifier.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\obj\Debug\net6.0\10.Date-Modifier.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\obj\Debug\net6.0\10.Date-Modifier.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\06. Defining-Classes\10.Date-Modifier\obj\Debug\net6.0\ref\10.Date-Modifier.dll

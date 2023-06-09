@@ -1,0 +1,14 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\bin\Debug\netcoreapp3.1\18.FishingNet.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\bin\Debug\netcoreapp3.1\18.FishingNet.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\bin\Debug\netcoreapp3.1\18.FishingNet.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\bin\Debug\netcoreapp3.1\18.FishingNet.runtimeconfig.dev.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\bin\Debug\netcoreapp3.1\18.FishingNet.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\bin\Debug\netcoreapp3.1\18.FishingNet.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\obj\Debug\netcoreapp3.1\18.FishingNet.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\obj\Debug\netcoreapp3.1\18.FishingNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\obj\Debug\netcoreapp3.1\18.FishingNet.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\obj\Debug\netcoreapp3.1\18.FishingNet.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\obj\Debug\netcoreapp3.1\18.FishingNet.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\obj\Debug\netcoreapp3.1\18.FishingNet.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\obj\Debug\netcoreapp3.1\18.FishingNet.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\18.FishingNet\obj\Debug\netcoreapp3.1\18.FishingNet.genruntimeconfig.cache

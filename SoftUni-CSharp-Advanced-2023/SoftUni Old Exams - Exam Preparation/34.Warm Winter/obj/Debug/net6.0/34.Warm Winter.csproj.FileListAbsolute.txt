@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\bin\Debug\net6.0\34.Warm Winter.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\bin\Debug\net6.0\34.Warm Winter.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\bin\Debug\net6.0\34.Warm Winter.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\bin\Debug\net6.0\34.Warm Winter.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\bin\Debug\net6.0\34.Warm Winter.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\obj\Debug\net6.0\34.Warm Winter.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\obj\Debug\net6.0\34.Warm Winter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\obj\Debug\net6.0\34.Warm Winter.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\obj\Debug\net6.0\34.Warm Winter.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\obj\Debug\net6.0\34.Warm Winter.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\obj\Debug\net6.0\34.Warm Winter.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\obj\Debug\net6.0\refint\34.Warm Winter.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\obj\Debug\net6.0\34.Warm Winter.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\obj\Debug\net6.0\34.Warm Winter.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\34.Warm Winter\obj\Debug\net6.0\ref\34.Warm Winter.dll

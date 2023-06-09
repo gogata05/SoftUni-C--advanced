@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\bin\Debug\net6.0\17. Beaver at Work.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\bin\Debug\net6.0\17. Beaver at Work.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\bin\Debug\net6.0\17. Beaver at Work.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\bin\Debug\net6.0\17. Beaver at Work.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\bin\Debug\net6.0\17. Beaver at Work.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\obj\Debug\net6.0\17. Beaver at Work.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\obj\Debug\net6.0\17. Beaver at Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\obj\Debug\net6.0\17. Beaver at Work.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\obj\Debug\net6.0\17. Beaver at Work.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\obj\Debug\net6.0\17. Beaver at Work.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\obj\Debug\net6.0\17. Beaver at Work.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\obj\Debug\net6.0\refint\17. Beaver at Work.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\obj\Debug\net6.0\17. Beaver at Work.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\obj\Debug\net6.0\17. Beaver at Work.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\17. Beaver at Work\obj\Debug\net6.0\ref\17. Beaver at Work.dll

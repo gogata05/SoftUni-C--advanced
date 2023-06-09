@@ -1,0 +1,14 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\obj\Debug\netcoreapp3.1\36.Cocktail Party.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\obj\Debug\netcoreapp3.1\36.Cocktail Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\obj\Debug\netcoreapp3.1\36.Cocktail Party.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\obj\Debug\netcoreapp3.1\36.Cocktail Party.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\obj\Debug\netcoreapp3.1\36.Cocktail Party.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\bin\Debug\netcoreapp3.1\36.Cocktail Party.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\bin\Debug\netcoreapp3.1\36.Cocktail Party.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\bin\Debug\netcoreapp3.1\36.Cocktail Party.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\bin\Debug\netcoreapp3.1\36.Cocktail Party.runtimeconfig.dev.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\bin\Debug\netcoreapp3.1\36.Cocktail Party.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\bin\Debug\netcoreapp3.1\36.Cocktail Party.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\obj\Debug\netcoreapp3.1\36.Cocktail Party.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\obj\Debug\netcoreapp3.1\36.Cocktail Party.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\36.Cocktail Party\obj\Debug\netcoreapp3.1\36.Cocktail Party.genruntimeconfig.cache

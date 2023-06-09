@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\bin\Debug\net6.0\26. The Battle of The Five Armies.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\bin\Debug\net6.0\26. The Battle of The Five Armies.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\bin\Debug\net6.0\26. The Battle of The Five Armies.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\bin\Debug\net6.0\26. The Battle of The Five Armies.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\bin\Debug\net6.0\26. The Battle of The Five Armies.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\obj\Debug\net6.0\26. The Battle of The Five Armies.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\obj\Debug\net6.0\26. The Battle of The Five Armies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\obj\Debug\net6.0\26. The Battle of The Five Armies.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\obj\Debug\net6.0\26. The Battle of The Five Armies.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\obj\Debug\net6.0\26. The Battle of The Five Armies.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\obj\Debug\net6.0\26. The Battle of The Five Armies.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\obj\Debug\net6.0\refint\26. The Battle of The Five Armies.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\obj\Debug\net6.0\26. The Battle of The Five Armies.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\obj\Debug\net6.0\26. The Battle of The Five Armies.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\26. The Battle of The Five Armies\obj\Debug\net6.0\ref\26. The Battle of The Five Armies.dll

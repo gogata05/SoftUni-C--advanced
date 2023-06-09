@@ -1,0 +1,14 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\bin\Debug\netcoreapp3.1\21.Drones.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\bin\Debug\netcoreapp3.1\21.Drones.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\bin\Debug\netcoreapp3.1\21.Drones.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\bin\Debug\netcoreapp3.1\21.Drones.runtimeconfig.dev.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\bin\Debug\netcoreapp3.1\21.Drones.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\bin\Debug\netcoreapp3.1\21.Drones.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\obj\Debug\netcoreapp3.1\21.Drones.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\obj\Debug\netcoreapp3.1\21.Drones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\obj\Debug\netcoreapp3.1\21.Drones.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\obj\Debug\netcoreapp3.1\21.Drones.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\obj\Debug\netcoreapp3.1\21.Drones.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\obj\Debug\netcoreapp3.1\21.Drones.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\obj\Debug\netcoreapp3.1\21.Drones.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\21.Drones\obj\Debug\netcoreapp3.1\21.Drones.genruntimeconfig.cache

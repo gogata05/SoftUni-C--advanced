@@ -1,0 +1,14 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\bin\Debug\netcoreapp3.1\51.VetClinic.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\bin\Debug\netcoreapp3.1\51.VetClinic.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\bin\Debug\netcoreapp3.1\51.VetClinic.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\bin\Debug\netcoreapp3.1\51.VetClinic.runtimeconfig.dev.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\bin\Debug\netcoreapp3.1\51.VetClinic.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\bin\Debug\netcoreapp3.1\51.VetClinic.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\obj\Debug\netcoreapp3.1\51.VetClinic.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\obj\Debug\netcoreapp3.1\51.VetClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\obj\Debug\netcoreapp3.1\51.VetClinic.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\obj\Debug\netcoreapp3.1\51.VetClinic.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\obj\Debug\netcoreapp3.1\51.VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\obj\Debug\netcoreapp3.1\51.VetClinic.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\obj\Debug\netcoreapp3.1\51.VetClinic.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\51.VetClinic\obj\Debug\netcoreapp3.1\51.VetClinic.genruntimeconfig.cache

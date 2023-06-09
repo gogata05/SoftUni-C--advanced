@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\bin\Debug\net6.0\19. Blacksmith.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\bin\Debug\net6.0\19. Blacksmith.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\bin\Debug\net6.0\19. Blacksmith.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\bin\Debug\net6.0\19. Blacksmith.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\bin\Debug\net6.0\19. Blacksmith.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\obj\Debug\net6.0\19. Blacksmith.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\obj\Debug\net6.0\19. Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\obj\Debug\net6.0\19. Blacksmith.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\obj\Debug\net6.0\19. Blacksmith.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\obj\Debug\net6.0\19. Blacksmith.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\obj\Debug\net6.0\19. Blacksmith.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\obj\Debug\net6.0\refint\19. Blacksmith.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\obj\Debug\net6.0\19. Blacksmith.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\obj\Debug\net6.0\19. Blacksmith.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\19. Blacksmith\obj\Debug\net6.0\ref\19. Blacksmith.dll

@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\bin\Debug\net6.0\08.Help-A-Mole.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\bin\Debug\net6.0\08.Help-A-Mole.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\bin\Debug\net6.0\08.Help-A-Mole.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\bin\Debug\net6.0\08.Help-A-Mole.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\bin\Debug\net6.0\08.Help-A-Mole.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\obj\Debug\net6.0\08.Help-A-Mole.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\obj\Debug\net6.0\08.Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\obj\Debug\net6.0\08.Help-A-Mole.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\obj\Debug\net6.0\08.Help-A-Mole.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\obj\Debug\net6.0\08.Help-A-Mole.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\obj\Debug\net6.0\08.Help-A-Mole.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\obj\Debug\net6.0\refint\08.Help-A-Mole.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\obj\Debug\net6.0\08.Help-A-Mole.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\obj\Debug\net6.0\08.Help-A-Mole.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\05.23start\Tests All\Tests All\08.Help-A-Mole\obj\Debug\net6.0\ref\08.Help-A-Mole.dll

@@ -1,0 +1,15 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\bin\Debug\net6.0\13. Meal Plan.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\bin\Debug\net6.0\13. Meal Plan.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\bin\Debug\net6.0\13. Meal Plan.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\bin\Debug\net6.0\13. Meal Plan.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\bin\Debug\net6.0\13. Meal Plan.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\obj\Debug\net6.0\13. Meal Plan.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\obj\Debug\net6.0\13. Meal Plan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\obj\Debug\net6.0\13. Meal Plan.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\obj\Debug\net6.0\13. Meal Plan.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\obj\Debug\net6.0\13. Meal Plan.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\obj\Debug\net6.0\13. Meal Plan.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\obj\Debug\net6.0\refint\13. Meal Plan.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\obj\Debug\net6.0\13. Meal Plan.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\obj\Debug\net6.0\13. Meal Plan.genruntimeconfig.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\13. Meal Plan\obj\Debug\net6.0\ref\13. Meal Plan.dll

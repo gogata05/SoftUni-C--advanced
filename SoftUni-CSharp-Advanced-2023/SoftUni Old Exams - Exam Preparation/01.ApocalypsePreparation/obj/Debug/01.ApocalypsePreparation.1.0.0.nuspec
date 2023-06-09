@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>01.ApocalypsePreparation</id>
+    <version>1.0.0</version>
+    <authors>01.ApocalypsePreparation</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\01.ApocalypsePreparation\bin\Debug\net6.0\01.ApocalypsePreparation.runtimeconfig.json" target="lib\net6.0\01.ApocalypsePreparation.runtimeconfig.json" />
+    <file src="C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\01.ApocalypsePreparation\bin\Debug\net6.0\01.ApocalypsePreparation.dll" target="lib\net6.0\01.ApocalypsePreparation.dll" />
+  </files>
+</package>

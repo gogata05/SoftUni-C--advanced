@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Su7A3MjJ8O3yRBlgWshN0vHPvp09L1SJIj4jmIO7n2rle52OOSO80J2zMt7vBPK6TJMf/3PTviinVLja9CR2vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\source\\repos\\OneDrive\\Pictures\\repos\\startAdv\\Tests All\\Tests All\\32.Re-Volt 6\\32.Re-Volt 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

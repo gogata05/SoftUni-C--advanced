@@ -1,0 +1,14 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\bin\Debug\netcoreapp3.1\48.Parking.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\bin\Debug\netcoreapp3.1\48.Parking.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\bin\Debug\netcoreapp3.1\48.Parking.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\bin\Debug\netcoreapp3.1\48.Parking.runtimeconfig.dev.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\bin\Debug\netcoreapp3.1\48.Parking.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\bin\Debug\netcoreapp3.1\48.Parking.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\obj\Debug\netcoreapp3.1\48.Parking.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\obj\Debug\netcoreapp3.1\48.Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\obj\Debug\netcoreapp3.1\48.Parking.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\obj\Debug\netcoreapp3.1\48.Parking.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\obj\Debug\netcoreapp3.1\48.Parking.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\obj\Debug\netcoreapp3.1\48.Parking.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\obj\Debug\netcoreapp3.1\48.Parking.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\startAdv\Tests All\Tests All\48.Parking\obj\Debug\netcoreapp3.1\48.Parking.genruntimeconfig.cache
