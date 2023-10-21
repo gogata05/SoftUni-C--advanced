@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DX2SpKJJYX07XbeAZdPxHPn2fjI3Lp9yf4fqdvXnjYs5ehrWGi9O8vWH1A3bagOVRJ0fxb5Qpe6jshyFemTiow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\source\\repos\\OneDrive\\Pictures\\repos\\CSharp-OOP\\Exams\\2020-12-19-RetakeExam-WarCroft\\02BusinessLogic\\WarCroft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WTfg42AeOuZqNEYa3REHrFRkHbyD3FAh6tQWVujYav23maikegYZGSX7LW7EVff3vY5QYsnfg5WFpbRRuOngsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\source\\repos\\OneDrive\\Pictures\\repos\\CSharp-OOP\\Exams\\2021-12-11-Exam-Gym\\02BusinessLogic\\Skeleton\\Gym\\Gym.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

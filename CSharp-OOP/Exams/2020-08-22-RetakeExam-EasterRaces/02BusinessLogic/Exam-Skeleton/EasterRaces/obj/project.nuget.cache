@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DMM0NrO2PRmPxKc4D4MtTwn/PtsjU/VI5hB5mE/V9uP3g8GRuT2zd1yQGLnNy/B3zuF0iUN5ZM2Tg0yTrNtAWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\source\\repos\\OneDrive\\Pictures\\repos\\CSharp-OOP\\Exams\\2020-08-22-RetakeExam-EasterRaces\\02BusinessLogic\\Exam-Skeleton\\EasterRaces\\EasterRaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
