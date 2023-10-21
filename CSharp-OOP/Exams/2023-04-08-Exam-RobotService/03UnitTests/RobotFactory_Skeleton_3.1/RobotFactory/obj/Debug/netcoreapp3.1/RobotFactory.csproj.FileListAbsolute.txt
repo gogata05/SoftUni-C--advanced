@@ -1,0 +1,14 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\bin\Debug\netcoreapp3.1\RobotFactory.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\bin\Debug\netcoreapp3.1\RobotFactory.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\bin\Debug\netcoreapp3.1\RobotFactory.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\bin\Debug\netcoreapp3.1\RobotFactory.runtimeconfig.dev.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\bin\Debug\netcoreapp3.1\RobotFactory.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\bin\Debug\netcoreapp3.1\RobotFactory.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\obj\Debug\netcoreapp3.1\RobotFactory.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\obj\Debug\netcoreapp3.1\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\obj\Debug\netcoreapp3.1\RobotFactory.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\obj\Debug\netcoreapp3.1\RobotFactory.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\obj\Debug\netcoreapp3.1\RobotFactory.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\obj\Debug\netcoreapp3.1\RobotFactory.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\obj\Debug\netcoreapp3.1\RobotFactory.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-08April2023\03UnitTests\RobotFactory_Skeleton_3.1\RobotFactory\obj\Debug\netcoreapp3.1\RobotFactory.genruntimeconfig.cache

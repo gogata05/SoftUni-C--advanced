@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2pdEm9XMH+V/KzCBXHfAumW/dPPERRIZpaBPW1WULUCo5k4Ok0jg6TLnMpbzkSf2BCunthhTLFGZXFRx6uWyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\Music\\RobotFactory_Skeleton_3.1\\RobotFactory\\RobotFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "43KZbWRlhOdeCflcFroVpqOeU7jK5C5OfB3wuoImC+BAuLFzrpkBxYqSEjoWI27ArAwASHBgsWkB3SRM/MNpMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\source\\repos\\OneDrive\\Pictures\\repos\\CSharp-OOP\\Exams\\Exam-14Aug2022\\03UnitTests\\PlanetWars\\PlanetWars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mwa3jgwVqaQY66Yn39Y67POrsOvJR3/U5i8CqjaXCIJJQofQmrY8gzAUep4Wq6yweMGeh2woNO6a5bdImIJzUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\source\\repos\\OneDrive\\Pictures\\repos\\CSharp-OOP\\Exams\\Retake Exam19December2022\\03UnitTests\\UniversityLibrary\\UniversityLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
