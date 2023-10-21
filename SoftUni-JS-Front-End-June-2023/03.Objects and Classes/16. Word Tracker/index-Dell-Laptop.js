@@ -1,4 +1,0 @@
-function solve(arrayWords) {
-    
-}
-solve();

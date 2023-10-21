@@ -1,0 +1,14 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.runtimeconfig.dev.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\bin\Debug\netcoreapp3.1\FestivalManager.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\RetakeExam-19December2020\03UnitTests\FestivalManager\obj\Debug\netcoreapp3.1\FestivalManager.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-16August2020\03UnitTests\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache

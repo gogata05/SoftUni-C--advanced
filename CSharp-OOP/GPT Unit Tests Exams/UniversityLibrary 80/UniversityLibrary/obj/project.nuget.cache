@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lz9oCY8egBzrYjLA3vhZ2Y17PVZQc8+lz6ph1vzAPENwyL42GAVc5OJPLyTmg2unItqysUd3b7uiinNn/Bw8Iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\Music\\03. Unit Tests_Skeleton_3.1\\UniversityLibrary\\UniversityLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

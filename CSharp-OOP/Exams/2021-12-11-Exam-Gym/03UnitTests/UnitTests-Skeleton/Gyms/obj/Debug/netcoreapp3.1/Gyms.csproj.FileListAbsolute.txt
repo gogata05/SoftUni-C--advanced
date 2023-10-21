@@ -1,0 +1,14 @@
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.exe
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.deps.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.dev.json
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.AssemblyReference.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfoInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfo.cs
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.CoreCompileInputs.cache
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\gogat\source\repos\OneDrive\Pictures\repos\CSharp-OOP\Exams\Exam-11December2021\03UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.genruntimeconfig.cache

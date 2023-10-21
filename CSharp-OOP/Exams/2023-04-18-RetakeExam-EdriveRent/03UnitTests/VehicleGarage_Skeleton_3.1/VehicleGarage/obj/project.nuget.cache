@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I7X3UypIkXMQeYTaGSMM+/6i6x4gwe3iBhbF+2GGzMvWgnQgc/qXDNSnU9DTiUuT+NKSZNAvB+ofSfi7JWxQ7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogat\\source\\repos\\OneDrive\\Pictures\\repos\\CSharp-OOP\\Exams\\RetakeExam18April2023\\03UnitTests\\VehicleGarage_Skeleton_3.1\\VehicleGarage\\VehicleGarage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
