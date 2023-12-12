@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/9AGXG7i.png" alt="Certificate"/>
+<img src="https://i.imgur.com/9AGXG7i.png" alt="Certificate"/> 
 
 ### 📚 C# Advanced - May 2023
 
