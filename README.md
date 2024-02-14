@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/9AGXG7i.png" alt="Certificate"/> 
-
+ 
 ### 📚 C# Advanced - May 2023
 
 Welcome to the C# Advanced - May 2023 course repository! This course builds upon your existing knowledge of the C# language and the .NET platform, delving into more advanced concepts typical of the language.
